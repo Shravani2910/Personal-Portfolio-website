@@ -7,10 +7,6 @@ title: Shravani Jagtap
 first_name: Shravani
 last_name: Jagtap
 
-# Status emoji
-status:
-  icon: ☕️
-
 # Is this the primary user of the site?
 superuser: true
 
@@ -18,7 +14,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Aspiring Data Scientist
+role: Aspiring ML Engineer / Data Scientist
 
 
 # Social network links
@@ -26,7 +22,7 @@ role: Aspiring Data Scientist
 profiles:
   - icon: at-symbol
     url: 'Shravaniij2910@gmail.com'
-    label: E-mail Me
+    label: E-mail
   - icon: brands/github
     url: https://github.com/Shravani2910
   - icon: brands/linkedin
@@ -37,6 +33,7 @@ interests:
   - Machine Learning
   - UX/UI and Graphic Design
   - LLM/NLP
+  - Data Science
 
 education:
   - Area:Engineering (BE)
